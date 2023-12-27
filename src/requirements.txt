@@ -1,0 +1,9 @@
+ordereddict
+argparse
+python-dateutil
+matplotlib
+nose
+numpy
+pymongo
+psutil
+django==1.9.10
